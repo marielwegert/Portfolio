@@ -1,0 +1,27 @@
+header{
+    height: 100px;
+    background-color: dodgerblue;
+    color: black;
+    display: flex;
+    align-items: center;
+    padding-left: 500px;
+}
+
+.presentacion{
+    height: 300px;
+    background-color:cadetblue;
+    color: black;
+    padding-left: 500px;
+}
+
+.fotoPerfil{
+    width: 100px;
+    border-radius: 40%;
+}
+
+.infoGral{
+    height: 300px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+}
